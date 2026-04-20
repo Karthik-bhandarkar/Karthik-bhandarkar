@@ -7,26 +7,18 @@
 <!--  HERO CARD  -->
 <table align="center" width="85%">
 <tr>
-<td align="left" style="padding: 36px 42px; border-radius: 20px; background: #ffffff; border: 1px solid #e1e4e8; color: #555555; line-height: 1.6;">
-
+<td align="left" style="padding: 36px 42px; border-radius: 20px; background-color: #ffffff; border: 1px solid #e1e4e8; line-height: 1.6;">
+<div style="color: #555555; font-size: 16px;">
 <br/>
-
-&nbsp;&nbsp;&nbsp; Hi, I'm **Karthik** 👋 — a final-year CS student at East West Institute of Technology, Bengaluru, building real-world AI systems that ship to production.
-
+&nbsp;&nbsp;&nbsp; Hi, I'm <strong style="color: #1a1a1a;">Karthik</strong> 👋 — a final-year CS student at <strong style="color: #1a1a1a;">East West Institute of Technology, Bengaluru</strong>, building real-world AI systems that ship to production.
 <br/><br/>
-
-&nbsp;&nbsp;&nbsp; I architect multi-agent LLM backends, design REST APIs with Flask, and wire up LangChain pipelines — recently deployed a healthcare assistant on Llama-3.3-70B serving 100+ concurrent users with real-time SSE streaming.
-
+&nbsp;&nbsp;&nbsp; I architect <strong style="color: #1a1a1a;">multi-agent LLM backends</strong>, design <strong style="color: #1a1a1a;">REST APIs with Flask</strong>, and wire up <strong style="color: #1a1a1a;">LangChain pipelines</strong> — recently deployed a healthcare assistant on Llama-3.3-70B serving 100+ concurrent users with real-time SSE streaming.
 <br/><br/>
-
 &nbsp;&nbsp;&nbsp; When I'm not pushing commits, I'm reverse-engineering how intelligence works — one <u><a href="#" style="color: #f26f21; text-decoration: none;">RAG pipeline</a></u>, one <u><a href="#" style="color: #f26f21; text-decoration: none;">vector database</a></u>, one solved <u><a href="https://leetcode.com/u/karthik_bhandarkar/" style="color: #f26f21; text-decoration: none;">LeetCode</a></u> problem at a time. 🧠
-
 <br/><br/>
-
 &nbsp;&nbsp;&nbsp; I'm currently chasing: <u><a href="#" style="color: #f26f21; text-decoration: none;">multi-agent orchestration</a></u> · <u><a href="#" style="color: #f26f21; text-decoration: none;">RAG systems</a></u> · <u><a href="#" style="color: #f26f21; text-decoration: none;">production ML pipelines</a></u>
-
-<br/><br/><br/>
-
+</div>
+<br/><br/>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="left" valign="bottom" style="padding-left: 10px;">
