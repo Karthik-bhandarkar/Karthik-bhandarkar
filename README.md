@@ -7,31 +7,40 @@
 <!--  HERO CARD  -->
 <table align="center" width="85%">
 <tr>
-<td align="left" style="padding: 28px 36px; border-radius: 16px; background: #0d1117; border: 1px solid #21262d;">
+<td align="left" style="padding: 36px 42px; border-radius: 20px; background: #ffffff; border: 1px solid #e1e4e8; color: #555555; line-height: 1.6;">
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;**Hi, I'm Karthik** 👋 — a final-year CS student at **East West Institute of Technology, Bengaluru**, building real-world AI systems that ship to production.
-
-&nbsp;&nbsp;&nbsp;I architect **multi-agent LLM backends**, design **REST APIs with Flask**, and wire up **LangChain pipelines** — recently deployed a healthcare assistant on **Llama-3.3-70B** serving 100+ concurrent users with real-time SSE streaming.
-
-&nbsp;&nbsp;&nbsp;When I'm not pushing commits, I'm reverse-engineering how intelligence works — one RAG pipeline, one vector database, one solved LeetCode problem at a time. 🧠
-
-&nbsp;&nbsp;&nbsp;I'm currently chasing: **multi-agent orchestration · RAG systems · production ML pipelines**
-
-<br/>
-
-&nbsp;&nbsp;&nbsp;`Open Source Contributor` &nbsp;|&nbsp; `Python & Data Analytics Learner` &nbsp;|&nbsp; `Oracle GenAI Professional ✅`
-
-<br/>
-
-&nbsp;&nbsp;&nbsp;**Find me at →** &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-bhandarkar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthik-bhandarkar)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikbhandarkar2004@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/karthik_bhandarkar/)
+&nbsp;&nbsp;&nbsp; Hi, I'm **Karthik** 👋 — a final-year CS student at East West Institute of Technology, Bengaluru, building real-world AI systems that ship to production.
 
 <br/><br/>
+
+&nbsp;&nbsp;&nbsp; I architect multi-agent LLM backends, design REST APIs with Flask, and wire up LangChain pipelines — recently deployed a healthcare assistant on Llama-3.3-70B serving 100+ concurrent users with real-time SSE streaming.
+
+<br/><br/>
+
+&nbsp;&nbsp;&nbsp; When I'm not pushing commits, I'm reverse-engineering how intelligence works — one <u><a href="#" style="color: #f26f21; text-decoration: none;">RAG pipeline</a></u>, one <u><a href="#" style="color: #f26f21; text-decoration: none;">vector database</a></u>, one solved <u><a href="https://leetcode.com/u/karthik_bhandarkar/" style="color: #f26f21; text-decoration: none;">LeetCode</a></u> problem at a time. 🧠
+
+<br/><br/>
+
+&nbsp;&nbsp;&nbsp; I'm currently chasing: <u><a href="#" style="color: #f26f21; text-decoration: none;">multi-agent orchestration</a></u> · <u><a href="#" style="color: #f26f21; text-decoration: none;">RAG systems</a></u> · <u><a href="#" style="color: #f26f21; text-decoration: none;">production ML pipelines</a></u>
+
+<br/><br/><br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="left" valign="bottom" style="padding-left: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=46&pause=1000&color=24292F&center=false&vCenter=false&width=280&lines=Karthik+Bhandarkar" alt="Signature" />
+    </td>
+    <td width="50%" align="right" valign="bottom">
+      <b><span style="color: #1a1a1a; letter-spacing: 0.5px;">FIND ME AT</span></b> <br/>
+      <span style="color: #666666;">karthikbhandarkar2004@gmail.com</span> <br/><br/>
+      <a href="https://linkedin.com/in/karthik-bhandarkar"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=b0b0b0" height="28" /></a>&nbsp;
+      <a href="https://github.com/Karthik-bhandarkar"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=b0b0b0" height="28" /></a>&nbsp;
+      <a href="mailto:karthikbhandarkar2004@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=b0b0b0" height="28" /></a>
+    </td>
+  </tr>
+</table>
 
 </td>
 </tr>
