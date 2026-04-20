@@ -7,7 +7,7 @@
 <!--  HERO CARD  -->
 <table align="center" width="85%">
 <tr>
-<td align="left" style="padding: 28px 36px; border-radius: 16px; background: #0d1117; border: 1px solid #21262d;">
+<td align="left" style="padding: 28px 36px; border-radius: 16px; background: #0d1117; border: 1px solid #21262d; color: white;">
 
 <br/>
 
