@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=🔧+Building+LLM-powered+production+systems;🤖+Multi-Agent+Orchestration+%7C+RAG+Pipelines;🐍+Python+%7C+Flask+%7C+LangChain+%7C+REST+APIs;📊+Data+Analytics+%7C+ML+%7C+Computer+Vision;🏆+Oracle+Certified+GenAI+Professional;📍+Bengaluru%2C+India+%7C+Open+to+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&v=1.2&lines=🔧+Building+LLM-powered+production+systems;🤖+Multi-Agent+Orchestration+%7C+RAG+Pipelines;🐍+Python+%7C+Flask+%7C+LangChain+%7C+REST+APIs;📊+Data+Analytics+%7C+ML+%7C+Computer+Vision;🏆+Oracle+Certified+GenAI+Professional;📍+Bengaluru%2C+India+%7C+Open+to+Work" alt="Typing SVG" />
 
 </div>
 
