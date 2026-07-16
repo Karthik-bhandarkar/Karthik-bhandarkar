@@ -133,7 +133,7 @@ Portable real-time assistive hardware+AI device achieving **85%+ object detectio
 
 **Key wins:** Hardware-software integration · real-time pipeline · gTTS multi-language output
 
-[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Karthik-bhandarkar)
+[![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/Karthik-bhandarkar/Intelligent-Assistive-System)
 
 </td>
 </tr>
